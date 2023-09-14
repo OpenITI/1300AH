@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1286NiqulaRizqAllah.AbuSucud.Hindawi16079748",
-    "BookCats": "novels",
-    "BookID": "16079748",
-    "BookTitle": "أبو السعود",
-    "AuthorID": "26903941",
-    "AuthorNam": "نقولا رزق الله",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1286NiqulaRizqAllah.AbuSucud.Hindawi16079748
+#META# Tags: novels
+#META# ID: 16079748
+#META# Title: أبو السعود
+#META# AuthorID: 26903941
+#META# Author: نقولا رزق الله
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

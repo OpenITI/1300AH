@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1300ButrusBustani.MacarikCarabFiAndalus.Hindawi30703918",
-    "BookCats": "history",
-    "BookID": "30703918",
-    "BookTitle": "معارك العرب في الأندلس",
-    "AuthorID": "84853603",
-    "AuthorNam": "بطرس البستاني",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1300ButrusBustani.MacarikCarabFiAndalus.Hindawi30703918
+#META# Tags: history
+#META# ID: 30703918
+#META# Title: معارك العرب في الأندلس
+#META# AuthorID: 84853603
+#META# Author: بطرس البستاني
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

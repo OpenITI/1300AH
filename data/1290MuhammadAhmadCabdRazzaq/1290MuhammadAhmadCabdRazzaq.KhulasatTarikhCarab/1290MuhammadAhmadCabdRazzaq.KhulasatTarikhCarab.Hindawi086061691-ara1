@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1290MuhammadAhmadCabdRazzaq.KhulasatTarikhCarab.Hindawi86061691",
-    "BookCats": "history",
-    "BookID": "86061691",
-    "BookTitle": "خلاصة تاريخ العرب",
-    "AuthorID": "61848528",
-    "AuthorNam": "لويس سيديو",
-    "EditorID": "79680427",
-    "EditorNam": "علي مبارك",
-    "TranslID": "94627317",
-    "TranslNam": "محمد أحمد عبد الرازق",
-    "BookRel": "1292LouisSedillot.HistoireGeneraleDesArabes (TRANSL)"
-}
-
+#META# URI: 1290MuhammadAhmadCabdRazzaq.KhulasatTarikhCarab.Hindawi86061691
+#META# Tags: history
+#META# ID: 86061691
+#META# Title: خلاصة تاريخ العرب
+#META# AuthorID: 61848528
+#META# Author: لويس سيديو
+#META# EditorID: 79680427
+#META# Editor: علي مبارك
+#META# TranslatorID: 94627317
+#META# Translator: محمد أحمد عبد الرازق
+#META# Related_books: 1292LouisSedillot.HistoireGeneraleDesArabes (TRANSL)
 
 #META#Header#End#
 

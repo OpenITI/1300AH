@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1290FransisMarrash.MiratHasna.Hindawi70582947",
-    "BookCats": "poetry",
-    "BookID": "70582947",
-    "BookTitle": "مرآة الحسناء",
-    "AuthorID": "90906851",
-    "AuthorNam": "فرنسيس فتح الله مَرَّاش",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1290FransisMarrash.MiratHasna.Hindawi70582947
+#META# Tags: poetry
+#META# ID: 70582947
+#META# Title: مرآة الحسناء
+#META# AuthorID: 90906851
+#META# Author: فرنسيس فتح الله مَرَّاش
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

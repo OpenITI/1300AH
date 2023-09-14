@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1300ButrusBustani.UdabaCarabFiJahiliyyaWaSadrIslam.Hindawi48607936",
-    "BookCats": "literary.criticism :: literature",
-    "BookID": "48607936",
-    "BookTitle": "أدباء العرب في الجاهلية وصدر الإسلام",
-    "AuthorID": "84853603",
-    "AuthorNam": "بطرس البستاني",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1300ButrusBustani.UdabaCarabFiJahiliyyaWaSadrIslam.Hindawi48607936
+#META# Tags: literary.criticism :: literature
+#META# ID: 48607936
+#META# Title: أدباء العرب في الجاهلية وصدر الإسلام
+#META# AuthorID: 84853603
+#META# Author: بطرس البستاني
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

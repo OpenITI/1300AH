@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1287NasifNasraniYaziji.FakihatNudama.Hindawi71924948",
-    "BookCats": "literature",
-    "BookID": "71924948",
-    "BookTitle": "فاكهة الندماء في مراسلات الأدباء",
-    "AuthorID": "80360515",
-    "AuthorNam": "ناصيف اليازجي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1287NasifNasraniYaziji.FakihatNudama.Hindawi71924948
+#META# Tags: literature
+#META# ID: 71924948
+#META# Title: فاكهة الندماء في مراسلات الأدباء
+#META# AuthorID: 80360515
+#META# Author: ناصيف اليازجي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1286NiqulaRizqAllah.FidyatSharaf.Hindawi36816950",
-    "BookCats": "novels",
-    "BookID": "36816950",
-    "BookTitle": "فدية الشرف",
-    "AuthorID": "95753607",
-    "AuthorNam": "ألفونس دنري",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "26903941",
-    "TranslNam": "نقولا رزق الله",
-    "BookRel": "1250NotIdentified (TRANSL)"
-}
-
+#META# URI: 1286NiqulaRizqAllah.FidyatSharaf.Hindawi36816950
+#META# Tags: novels
+#META# ID: 36816950
+#META# Title: فدية الشرف
+#META# AuthorID: 95753607
+#META# Author: ألفونس دنري
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 26903941
+#META# Translator: نقولا رزق الله
+#META# Related_books: 1250NotIdentified (TRANSL)
 
 #META#Header#End#
 

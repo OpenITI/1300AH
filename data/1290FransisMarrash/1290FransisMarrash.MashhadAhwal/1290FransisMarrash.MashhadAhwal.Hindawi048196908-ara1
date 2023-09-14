@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1290FransisMarrash.MashhadAhwal.Hindawi48196908",
-    "BookCats": "literature :: philosophy",
-    "BookID": "48196908",
-    "BookTitle": "مشهد الأحوال",
-    "AuthorID": "90906851",
-    "AuthorNam": "فرنسيس فتح الله مَرَّاش",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1290FransisMarrash.MashhadAhwal.Hindawi48196908
+#META# Tags: literature :: philosophy
+#META# ID: 48196908
+#META# Title: مشهد الأحوال
+#META# AuthorID: 90906851
+#META# Author: فرنسيس فتح الله مَرَّاش
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

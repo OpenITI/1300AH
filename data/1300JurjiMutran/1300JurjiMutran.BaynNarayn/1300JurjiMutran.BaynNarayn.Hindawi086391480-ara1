@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1300JurjiMutran.BaynNarayn.Hindawi86391480",
-    "BookCats": "novels",
-    "BookID": "86391480",
-    "BookTitle": "بين نارين",
-    "AuthorID": "82636392",
-    "AuthorNam": "جرجي مطران",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1300JurjiMutran.BaynNarayn.Hindawi86391480
+#META# Tags: novels
+#META# ID: 86391480
+#META# Title: بين نارين
+#META# AuthorID: 82636392
+#META# Author: جرجي مطران
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

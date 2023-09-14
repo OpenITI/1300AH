@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1286NiqulaRizqAllah.ShuhadaTacassub.Hindawi91704704",
-    "BookCats": "history :: novels",
-    "BookID": "91704704",
-    "BookTitle": "شهداء التعصب:  رواية تاريخية وقعت أكثر حوادثها في فرنسا على عهد فرنسوا الثاني ملك فرنسا المتوفى سنة ١٥٦٠م",
-    "AuthorID": "26903941",
-    "AuthorNam": "نقولا رزق الله",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1286NiqulaRizqAllah.ShuhadaTacassub.Hindawi91704704
+#META# Tags: history :: novels
+#META# ID: 91704704
+#META# Title: شهداء التعصب:  رواية تاريخية وقعت أكثر حوادثها في فرنسا على عهد فرنسوا الثاني ملك فرنسا المتوفى سنة ١٥٦٠م
+#META# AuthorID: 26903941
+#META# Author: نقولا رزق الله
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

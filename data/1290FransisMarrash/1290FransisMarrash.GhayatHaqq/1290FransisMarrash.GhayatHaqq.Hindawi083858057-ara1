@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1290FransisMarrash.GhayatHaqq.Hindawi83858057",
-    "BookCats": "novels",
-    "BookID": "83858057",
-    "BookTitle": "غابة الحق",
-    "AuthorID": "90906851",
-    "AuthorNam": "فرنسيس فتح الله مَرَّاش",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1290FransisMarrash.GhayatHaqq.Hindawi83858057
+#META# Tags: novels
+#META# ID: 83858057
+#META# Title: غابة الحق
+#META# AuthorID: 90906851
+#META# Author: فرنسيس فتح الله مَرَّاش
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

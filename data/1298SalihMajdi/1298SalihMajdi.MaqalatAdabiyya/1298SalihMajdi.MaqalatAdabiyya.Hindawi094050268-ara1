@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1298SalihMajdi.MaqalatAdabiyya.Hindawi94050268",
-    "BookCats": "literature",
-    "BookID": "94050268",
-    "BookTitle": "المقالات الأدبية",
-    "AuthorID": "92419140",
-    "AuthorNam": "صالح مجدي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1298SalihMajdi.MaqalatAdabiyya.Hindawi94050268
+#META# Tags: literature
+#META# ID: 94050268
+#META# Title: المقالات الأدبية
+#META# AuthorID: 92419140
+#META# Author: صالح مجدي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 
